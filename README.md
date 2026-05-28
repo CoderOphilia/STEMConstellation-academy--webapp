@@ -76,7 +76,7 @@ git clone https://github.com/YOUR-USERNAME/STEMConstellation-academy--webapp
 Navigate to the project folder:
 
 ```bash
-cd stemconstellation-academy-platform
+cd STEMConstellation-academy--webapp
 ```
 
 Install dependencies for both frontend and backend.
